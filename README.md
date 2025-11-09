@@ -9,7 +9,6 @@
 ### 🚀 About Me
 
 💻 Full Stack Developer skilled in **Java | Spring Boot | Angular | Microservices | REST APIs | MySQL | MongoDB**
-🌱 Currently exploring **Cloud & Docker** for deployment
 🧩 Passionate about designing **clean, modular, and efficient codebases**
 🎯 Focused on learning and contributing to real-world scalable systems
 ✨ Motto: *“Code, Learn, Improve, Repeat.”*
